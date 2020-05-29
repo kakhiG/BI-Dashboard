@@ -1,0 +1,12 @@
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.deps.json
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.runtimeconfig.json
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.runtimeconfig.dev.json
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.dll
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\bin\Debug\netcoreapp2.0\Advantage.API.pdb
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.csprojAssemblyReference.cache
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.csproj.CoreCompileInputs.cache
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.AssemblyInfoInputs.cache
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.AssemblyInfo.cs
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.dll
+C:\Users\kk\Desktop\BIDASHBOARD\Advantage.API\obj\Debug\netcoreapp2.0\Advantage.API.pdb
